@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">media player</string>
+    <string name="start">start</string>
+    <string name="audio_controller">Audio Controller</string>
+    <string name="stop">stop</string>
+    <string name="pause">pause</string>
+</resources>
